@@ -1,0 +1,16 @@
+.hell-container {
+  background-color: black;  
+  border-radius: 10px;
+  box-shadow: 0 0 10px 1px #ff0000;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  margin: auto;
+  padding: 1em;
+  gap: 1em;
+  max-width: fit-content;
+  max-height: fit-content;
+  font-size: xx-large;
+  color: red;
+}
